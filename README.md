@@ -82,7 +82,7 @@ Meu nome é Lucas, tenho 25 anos e sou de São Paulo. Atualmente, estou cursando
     alt="GitHub Stats" 
     height="200" 
     style="margin-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=lucascarl011&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=lucascarl011&show_icons=true&theme=dark&locale=pt-br" 
   />
   <img 
     alt="Top Langs" 
