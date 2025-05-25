@@ -2,9 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá Mundo!
-
-Meu nome é Lucas, tenho 25 anos e sou de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e migrando do setor contábil para o desenvolvimento de software. Com mais de 4 anos de experiência na área contábil, decidi seguir minha paixão pela tecnologia e programação. Estou sempre em busca de aprendizado e desafios, pronto para contribuir com projetos inovadores e impactantes! 
+Desenvolvedor Full Stack, cursando Análise e Desenvolvimento de Sistemas. Possuo sólida base em Java, Spring Boot, React, MySQL e AWS, com experiências práticas em projetos que simulam ambientes corporativos, desenvolvidos em bootcamps como Generation, DIO e AWS re/Start. Tenho forte capacidade de aprendizado, resolução de problemas e colaboração em equipes ágeis.
 
 ---
 
