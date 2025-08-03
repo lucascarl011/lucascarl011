@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Desenvolvedor Full Stack, cursando Análise e Desenvolvimento de Sistemas. Possuo sólida base em Java, Spring Boot, React, MySQL e AWS, com experiências práticas em projetos que simulam ambientes corporativos, desenvolvidos em bootcamps como Generation, DIO e AWS re/Start. Tenho forte capacidade de aprendizado, resolução de problemas e colaboração em equipes ágeis.
+Desenvolvedor Full Stack, cursando Engenharia de Software. Possuo sólida base em Java, Spring Boot, React, MySQL e AWS, com experiências práticas em projetos que simulam ambientes corporativos, desenvolvidos em bootcamps como Generation Brasil, DIO e AWS re/Start. Tenho forte capacidade de aprendizado, resolução de problemas e colaboração em equipes ágeis.
 
 ---
 
