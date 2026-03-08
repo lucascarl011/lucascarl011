@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Desenvolvedor Full Stack, cursando Engenharia de Software. Possuo sólida base em Java, Spring Boot, React, MySQL e AWS, com experiências práticas em projetos que simulam ambientes corporativos, desenvolvidos em bootcamps como Generation Brasil, DIO e AWS re/Start. Tenho forte capacidade de aprendizado, resolução de problemas e colaboração em equipes ágeis.
+Desenvolvedor Back-End, cursando Engenharia de Software. Possuo sólida base em Java, Spring Boot, SQL e AWS, com experiências práticas em projetos que simulam ambientes corporativos, desenvolvidos em bootcamps como Generation Brasil, DIO e AWS re/Start. Tenho forte capacidade de aprendizado, resolução de problemas e colaboração em equipes ágeis.
 
 ---
 
@@ -30,6 +30,14 @@ Desenvolvedor Full Stack, cursando Engenharia de Software. Possuo sólida base e
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
+<img
+  align="left"
+  alt="Oracle"
+  title="Oracle"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
+/>
 <img 
     alt="MySQL"
     title="MySQL" 
@@ -45,32 +53,11 @@ Desenvolvedor Full Stack, cursando Engenharia de Software. Possuo sólida base e
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
     alt="HTML"
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    alt="CSS"
-    title="CSS" 
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 
 ---
