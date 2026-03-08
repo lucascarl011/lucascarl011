@@ -1,6 +1,6 @@
 # 👨‍💻 Lucas Carlos
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Back-End`**
 
 Desenvolvedor Back-End, cursando Engenharia de Software. Possuo sólida base em Java, Spring Boot, SQL e AWS, com experiências práticas em projetos que simulam ambientes corporativos, desenvolvidos em bootcamps como Generation Brasil, DIO e AWS re/Start. Tenho forte capacidade de aprendizado, resolução de problemas e colaboração em equipes ágeis.
 
